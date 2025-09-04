@@ -41,3 +41,15 @@ int main() {
 
     return 0;
 }
+=== Coordenadas do Navio Vertical ===
+Parte 1: (2, 3)
+Parte 2: (2, 4)
+Parte 3: (2, 5)
+Parte 4: (2, 6)
+
+=== Coordenadas do Navio Horizontal ===
+Parte 1: (5, 6)
+Parte 2: (6, 6)
+Parte 3: (7, 6)
+Parte 4: (8, 6)
+Parte 5: (9, 6)
